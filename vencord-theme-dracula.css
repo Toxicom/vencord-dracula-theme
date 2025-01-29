@@ -5,7 +5,7 @@
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
-	--font: 'Montserrat';
+	--font: 'gg sans';
 	//font-family: 'Montserrat', 'gg sans', sans-serif;
 	/* top left corner text */
 	--corner-text: 'Vencord';
@@ -78,4 +78,3 @@
 	background: var(--text-0);
 	transform: rotate(-0deg) scale(0.8);
 }
-
